@@ -1,0 +1,74 @@
+path: "C:/Users/rlpat/OneDrive/Documents/New_College/Advanced Applied Computing/MoCA/yolo"
+
+train: train
+val: val
+
+# class names
+names:
+  0: arabian horn viper
+  1: arctic fox
+  2: arctic wolf
+  3: bear
+  4: black cat
+  5: chameleon
+  6: copperhead snake
+  7: crab
+  8: cuttlefish
+  9: dead leaf butterfly
+  10: desert fox
+  11: devil scorpionfish
+  12: eastern screech owl
+  13: egyptian nightjar
+  14: elephant
+  15: flatfish
+  16: flounder
+  17: flower crab spider
+  18: fossa
+  19: goat
+  20: grasshopper
+  21: groundhog
+  22: hedgehog
+  23: hermit crab
+  24: horned owl
+  25: hyena
+  26: ibex
+  27: jerboa
+  28: leaf katydid
+  29: leaf tail gecko
+  30: lichen katydid
+  31: lion cub
+  32: lioness
+  33: marine iguana
+  34: markhor
+  35: meerkat
+  36: mongoose
+  37: moth
+  38: mountain goat
+  39: nile monitor
+  40: octopus
+  41: orchid mantis
+  42: pallas cat
+  43: peacock flounder
+  44: plaice
+  45: polar bear
+  46: polar bear cub
+  47: potoo
+  48: pygmy seahorse
+  49: rabbit
+  50: rodent x
+  51: rusty spotted cat
+  52: sand cat
+  53: scorpionfish
+  54: seal
+  55: shrimp
+  56: smallfish
+  57: snow leopard
+  58: snowshoe hare
+  59: snowy owl
+  60: sole
+  61: spider tailed horned viper
+  62: starfish
+  63: stick insect
+  64: turtle
+  65: white tailed ptarmigan
+  66: wolf
