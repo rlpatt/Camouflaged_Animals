@@ -1,6 +1,6 @@
 # Camouflaged_Animals
 
-This is the repository for my camoulaged animal detection models using YOLOv8. Testing sets are too large for upload, but val and test sets can be found for each model. 
+This is the repository for my camouflaged animal detection models using YOLOv8. Testing sets are too large for upload, but val and test sets can be found for each model. 
 
 ## CAMO_Identification
 This contains the model and dependencies for the YOLOv8 identification process. The train dataset is too large to upload, but can be downloaded from google drive at https://drive.google.com/drive/folders/1h-OqZdwkuPhBvGcVAwmh0f1NGqlH_4B6
