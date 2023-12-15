@@ -1,0 +1,7 @@
+path: C:/Users/rlpat/OneDrive/Documents/New_College/Advanced Applied Computing/CAMO
+train: train
+val: val
+
+# class names
+names:
+  0: animal
